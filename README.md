@@ -69,7 +69,7 @@ RoomKit passwd        : ciscopsdt
 
 Open the In-Room Controls Editor.
 
-Create a new Panel with a `push` button with id: 'DNW03'
+Create a new Panel with a `push` button with id: 'DEVWKS-2074'
 
 or simply import the [provided panel sample](./step1-agenda.xml)
 
